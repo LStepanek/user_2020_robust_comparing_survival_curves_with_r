@@ -1,1 +1,2 @@
-# user_2020_robust_comparing_survival_curves_with_r
+# useR!2020 Robust alternatives for comparing time-event survival curves with R
+
